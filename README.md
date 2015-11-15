@@ -14,6 +14,7 @@ An awesome Internet of Things list on server-side.
 1. [How to Build an High Availability
 MQTT Cluster for the Internet of Things](https://medium.com/@lelylan/how-to-build-an-high-availability-mqtt-cluster-for-the-internet-of-things-8011a06bd000).
 2. [AWS Active series - IoT: A Small Things Primer](https://medium.com/aws-activate-startup-blog/iot-a-small-things-primer-7cb358810d77).
+3. [MQTT 101 – How to Get Started with the lightweight IoT Protocol](http://www.hivemq.com/blog/how-to-get-started-with-mqtt)
 
 ## News
 1. [Postscapes - Tracking the Internet of Things](http://postscapes.com/).
