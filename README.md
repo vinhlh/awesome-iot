@@ -1,6 +1,6 @@
 # awesome-iot
 
-A curated list of awesome Internet of Things(IoT) platforms, libraries and apps.
+An awesome Internet of Things list on server-side.
 
 ## SaaS
 1. [AWS IoT](https://aws.amazon.com/iot/how-it-works/).
